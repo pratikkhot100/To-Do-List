@@ -43,21 +43,21 @@ git clone https://github.com/pratikkhot100/To-Do-List.git
 
 2. Navigate to the project folder:
 
-bash
-Copy
-Edit
-```
-cd todo-list-app
-```
+ bash
+ Copy
+ Edit
+ ```
+ cd todo-list-app
+ ```
 
 3.Open index.html in your browser:
 
-bash
-Copy
-Edit
-```
-# You can simply open it with your browser, or use Live Server if using VS Code2
-```
+ bash
+ Copy
+ Edit
+ ```
+ # You can simply open it with your browser, or use Live Server if using VS Code2
+ ```
 
 ---
 
