@@ -19,7 +19,7 @@ A simple and clean **To-Do List App** built with **HTML**, **CSS**, and **JavaSc
 
 - 🧱 HTML  
 - 🎨 CSS  
-- 🧠 JavaScript (Vanilla JS)  
+- 🧠 JavaScript   
 - 📦 Local Storage (Browser-based)  
 
 ---
