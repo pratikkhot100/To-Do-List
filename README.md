@@ -75,3 +75,14 @@ todo-list-app/
 ## 📦 Local Storage
 
 All tasks are stored in your browser's local storage, so even if you refresh the page or close the tab, your tasks will still be there! ✨
+
+---
+
+## 📞 Contact Information
+
+  🐙 GitHub: https://github.com/pratikkhot100
+
+  💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
+
+  📧 Email: pratikkhot1207@gmail.com
+  
