@@ -5,6 +5,7 @@ A simple and clean **To-Do List App** built with **HTML**, **CSS**, and **JavaSc
 ## 🎥 Project Demo
 
 Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-to-do-list.netlify.app/)
+
 ---
 
 ## 🚀 Features
