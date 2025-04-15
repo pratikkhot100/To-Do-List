@@ -2,6 +2,9 @@
 
 A simple and clean **To-Do List App** built with **HTML**, **CSS**, and **JavaScript** that lets you **Create, Read, Update, and Delete** tasks. All your tasks are saved in the browser using **Local Storage**. No backend needed! 💾
 
+## 🎥 Project Demo
+
+Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-to-do-list.netlify.app/)
 ---
 
 ## 🚀 Features
